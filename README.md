@@ -34,6 +34,6 @@ Found linux image: /boot/vmlinuz-linux
 Found initrd image(s) in /boot: initramfs-linux.img
 Found fallback initrd image(s) in /boot: initramfs-linux-fallback.img
 done
-[*]All done. Restarting and look at the effect ...
+[*]All done. Restarting and look at the effect ..
 
 ## Restarting the system you will see the result..##
