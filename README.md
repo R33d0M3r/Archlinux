@@ -15,7 +15,7 @@ root@ArchLinux:~ #
 root@ArchLinux:~ # file blackarch.png                            
 blackarch.png: PNG image data, 1920 x 1080, 8-bit/color RGBA, non-interlaced
 root@ArchLinux:~ # 
-root@ArchLinux:~ # python change_grub_background.py blackarch.png 
+root@ArchLinux:~ # python change_grub_background.py blackarch.png  
 
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 |                           Notice:                                         |
